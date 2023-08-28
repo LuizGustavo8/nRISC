@@ -1,0 +1,172 @@
+{C:/Users/T-Gamer/Desktop/CEFET/QUARTO PERIODO/Nova pasta/Mux_8bits.v} {1 {vlog -work work {C:/Users/T-Gamer/Desktop/CEFET/QUARTO PERIODO/Nova pasta/Mux_8bits.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MUX_8bits
+
+Top level modules:
+	MUX_8bits
+
+} {} {}} {C:/Users/T-Gamer/Desktop/CEFET/QUARTO PERIODO/Nova pasta/memoria_de_dados.v} {1 {vlog -work work {C:\Users\T-Gamer\Desktop\CEFET\QUARTO PERIODO\Nova pasta\memoria_de_dados.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MDD
+
+Top level modules:
+	MDD
+
+} {} {}} {C:/Users/T-Gamer/Desktop/CEFET/QUARTO PERIODO/Nova pasta/teste_ULA.v} {1 {vlog -work work {C:/Users/T-Gamer/Desktop/CEFET/QUARTO PERIODO/Nova pasta/teste_ULA.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module teste_ULA
+
+Top level modules:
+	teste_ULA
+
+} {} {}} {C:/Users/T-Gamer/Desktop/CEFET/QUARTO PERIODO/Nova pasta/teste_mux.v} {1 {vlog -work work {C:/Users/T-Gamer/Desktop/CEFET/QUARTO PERIODO/Nova pasta/teste_mux.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module teste_mux
+
+Top level modules:
+	teste_mux
+
+} {} {}} {C:/Users/T-Gamer/Desktop/CEFET/QUARTO PERIODO/Nova pasta/nRISC.v} {2 {vlog -work work {C:\Users\T-Gamer\Desktop\CEFET\QUARTO PERIODO\Nova pasta\nRISC.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module BDR
+-- Compiling module MDI
+-- Compiling module MDD
+-- Compiling module PC
+-- Compiling module ALU
+-- Compiling module UDC
+** Warning: unidade_de_controle.v(68): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+-- Compiling module MUX_3bits
+-- Compiling module MUX_8bits
+-- Compiling module controle_da_ULA
+-- Compiling module nRISC
+
+Top level modules:
+	PC
+	MUX_3bits
+	MUX_8bits
+	nRISC
+
+} {} {}} {C:/Users/T-Gamer/Desktop/CEFET/QUARTO PERIODO/Nova pasta/memoria_de_instrucoes.v} {1 {vlog -work work {C:\Users\T-Gamer\Desktop\CEFET\QUARTO PERIODO\Nova pasta\memoria_de_instrucoes.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MDI
+
+Top level modules:
+	MDI
+
+} {} {}} {C:/Users/T-Gamer/Desktop/CEFET/QUARTO PERIODO/Nova pasta/banco_de_registradores.v} {1 {vlog -work work {C:\Users\T-Gamer\Desktop\CEFET\QUARTO PERIODO\Nova pasta\banco_de_registradores.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module BDR
+
+Top level modules:
+	BDR
+
+} {} {}} {C:/Users/T-Gamer/Desktop/CEFET/QUARTO PERIODO/Nova pasta/teste_mdd.v} {1 {vlog -work work {C:/Users/T-Gamer/Desktop/CEFET/QUARTO PERIODO/Nova pasta/teste_mdd.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module teste_mdd
+
+Top level modules:
+	teste_mdd
+
+} {} {}} {C:/Users/T-Gamer/Desktop/CEFET/QUARTO PERIODO/Nova pasta/PC.v} {1 {vlog -work work {C:/Users/T-Gamer/Desktop/CEFET/QUARTO PERIODO/Nova pasta/PC.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module PC
+
+Top level modules:
+	PC
+
+} {} {}} {C:/Users/T-Gamer/Desktop/CEFET/QUARTO PERIODO/Nova pasta/controle_da_ULA.v} {1 {vlog -work work {C:\Users\T-Gamer\Desktop\CEFET\QUARTO PERIODO\Nova pasta\controle_da_ULA.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module controle_da_ULA
+
+Top level modules:
+	controle_da_ULA
+
+} {} {}} {C:/Users/T-Gamer/Desktop/CEFET/QUARTO PERIODO/Nova pasta/teste_bdr.v} {1 {vlog -work work {C:/Users/T-Gamer/Desktop/CEFET/QUARTO PERIODO/Nova pasta/teste_bdr.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module teste_bdr
+
+Top level modules:
+	teste_bdr
+
+} {} {}} {C:/Users/T-Gamer/Desktop/CEFET/QUARTO PERIODO/Nova pasta/Mux_3bits.v} {1 {vlog -work work {C:/Users/T-Gamer/Desktop/CEFET/QUARTO PERIODO/Nova pasta/Mux_3bits.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MUX_3bits
+
+Top level modules:
+	MUX_3bits
+
+} {} {}} {C:/Users/T-Gamer/Desktop/CEFET/QUARTO PERIODO/Nova pasta/Simulacao.v} {2 {vlog -work work {C:\Users\T-Gamer\Desktop\CEFET\QUARTO PERIODO\Nova pasta\Simulacao.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module BDR
+-- Compiling module MDI
+-- Compiling module MDD
+-- Compiling module PC
+-- Compiling module ALU
+-- Compiling module UDC
+** Warning: unidade_de_controle.v(68): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+-- Compiling module MUX_3bits
+-- Compiling module MUX_8bits
+-- Compiling module controle_da_ULA
+-- Compiling module nRISC
+-- Compiling module simulacao
+
+Top level modules:
+	PC
+	MUX_3bits
+	MUX_8bits
+	simulacao
+
+} {} {}} {C:/Users/T-Gamer/Desktop/CEFET/QUARTO PERIODO/Nova pasta/teste_mdi.v} {1 {vlog -work work {C:/Users/T-Gamer/Desktop/CEFET/QUARTO PERIODO/Nova pasta/teste_mdi.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module teste_mdi
+
+Top level modules:
+	teste_mdi
+
+} {} {}} {C:/Users/T-Gamer/Desktop/CEFET/QUARTO PERIODO/Nova pasta/teste_pc.v} {1 {vlog -work work {C:/Users/T-Gamer/Desktop/CEFET/QUARTO PERIODO/Nova pasta/teste_pc.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module teste_pc
+
+Top level modules:
+	teste_pc
+
+} {} {}} {C:/Users/T-Gamer/Desktop/CEFET/QUARTO PERIODO/Nova pasta/unidade_de_controle.v} {2 {vlog -work work {C:\Users\T-Gamer\Desktop\CEFET\QUARTO PERIODO\Nova pasta\unidade_de_controle.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module UDC
+** Warning: C:\Users\T-Gamer\Desktop\CEFET\QUARTO PERIODO\Nova pasta\unidade_de_controle.v(68): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+
+Top level modules:
+	UDC
+
+} {} {}} {C:/Users/T-Gamer/Desktop/CEFET/QUARTO PERIODO/Nova pasta/teste_udc.v} {1 {vlog -work work {C:/Users/T-Gamer/Desktop/CEFET/QUARTO PERIODO/Nova pasta/teste_udc.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module teste_udc
+
+Top level modules:
+	teste_udc
+
+} {} {}} {C:/Users/T-Gamer/Desktop/CEFET/QUARTO PERIODO/Nova pasta/teste_mux2.v} {1 {vlog -work work {C:/Users/T-Gamer/Desktop/CEFET/QUARTO PERIODO/Nova pasta/teste_mux2.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module teste_mux2
+
+Top level modules:
+	teste_mux2
+
+} {} {}} {C:/Users/T-Gamer/Desktop/CEFET/QUARTO PERIODO/Nova pasta/teste_cdu.v} {1 {vlog -work work {C:/Users/T-Gamer/Desktop/CEFET/QUARTO PERIODO/Nova pasta/teste_cdu.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module teste_cdu
+
+Top level modules:
+	teste_cdu
+
+} {} {}} {C:/Users/T-Gamer/Desktop/CEFET/QUARTO PERIODO/Nova pasta/ULA.v} {1 {vlog -work work {C:\Users\T-Gamer\Desktop\CEFET\QUARTO PERIODO\Nova pasta\ULA.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}}

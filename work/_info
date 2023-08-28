@@ -1,0 +1,542 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\T-Gamer\Desktop\CEFET\QUARTO PERIODO
+vALU
+!i10b 1
+!s100 [C@?C0^UjP<QSH]b:z2;^2
+IkWajzX@nd?BLGVY8IIJN42
+Z1 V6GNZ3>`Pl;^ai=nfQ_hWi1
+Z2 dC:\Users\T-Gamer\Desktop\CEFET\QUARTO PERIODO\Nova pasta
+Z3 w1670624467
+Z4 FULA.v
+Z5 8C:\Users\T-Gamer\Desktop\CEFET\QUARTO PERIODO\Nova pasta\Simulacao.v
+Z6 FC:\Users\T-Gamer\Desktop\CEFET\QUARTO PERIODO\Nova pasta\Simulacao.v
+L0 2
+Z7 OV;L;10.1d;51
+r1
+!s85 0
+31
+Z8 !s108 1670624481.449000
+Z9 !s107 controle_da_ULA.v|Mux_8bits.v|Mux_3bits.v|unidade_de_controle.v|ULA.v|PC.v|memoria_de_dados.v|memoria_de_instrucoes.v|banco_de_registradores.v|nRisc.v|C:\Users\T-Gamer\Desktop\CEFET\QUARTO PERIODO\Nova pasta\Simulacao.v|
+Z10 !s90 -reportprogress|300|-work|work|C:\Users\T-Gamer\Desktop\CEFET\QUARTO PERIODO\Nova pasta\Simulacao.v|
+!s101 -O0
+Z11 o-work work -O0
+Z12 n@a@l@u
+vBDR
+!i10b 1
+!s100 iSEdb5^L9JjZDHX=@nXn33
+Ih0C=Img6enA9f4[K;3ZTW2
+Z13 V1kdHd0><kWDV`3oT><GfZ2
+R2
+w1670621174
+Z14 Fbanco_de_registradores.v
+R5
+R6
+L0 3
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!s101 -O0
+R11
+Z15 n@b@d@r
+vcontrole
+Z16 IKS^TLiUP?dBHRdAgKB0T]3
+Z17 VIYj]K[YJ03lzBPE5GQW262
+R2
+Z18 w1669313915
+Z19 8C:\Users\T-Gamer\Desktop\CEFET\QUARTO PERIODO\Nova pasta\unidade_de_controle.v
+Z20 FC:\Users\T-Gamer\Desktop\CEFET\QUARTO PERIODO\Nova pasta\unidade_de_controle.v
+L0 2
+R7
+r1
+31
+R11
+Z21 !s100 QKQ97ZNzEh]UGf_2[S?<H0
+Z22 !s108 1669313925.295000
+Z23 !s107 C:\Users\T-Gamer\Desktop\CEFET\QUARTO PERIODO\Nova pasta\unidade_de_controle.v|
+Z24 !s90 -reportprogress|300|-work|work|C:\Users\T-Gamer\Desktop\CEFET\QUARTO PERIODO\Nova pasta\unidade_de_controle.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vControle
+Z25 I?YoHFRER`UVPkREHjW7Cj3
+Z26 V<9lW2NeoFKK_Z3UEhYR992
+R2
+Z27 w1669315296
+R19
+R20
+L0 2
+R7
+r1
+31
+R24
+R11
+Z28 n@controle
+Z29 !s100 mWQVOhE?IC=dY4_k=mU4_2
+Z30 !s108 1669315331.181000
+R23
+!i10b 1
+!s85 0
+!s101 -O0
+vcontrole_da_ULA
+!i10b 1
+!s100 <UBRO5RCRk;2<^HO2h:4z2
+IUmJLYi4?QnG:NBIY]FCL63
+Z31 VQI`U9FlNiJH3]``<f9>VS2
+R2
+Z32 w1670624474
+Z33 Fcontrole_da_ULA.v
+R5
+R6
+L0 2
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!s101 -O0
+R11
+Z34 ncontrole_da_@u@l@a
+vdata_memory
+Z35 !s100 4<kcAg0@I^aJh`a5IGOaU2
+Z36 I92JeXEVB=zmzEkn^^N<YG2
+Z37 Vj78C70K6UeMLe^aG?U>8l0
+R2
+Z38 w1668029624
+Z39 8C:/Users/T-Gamer/Desktop/CEFET/QUARTO PERIODO/Nova pasta/memoria_de_dados.v
+Z40 FC:/Users/T-Gamer/Desktop/CEFET/QUARTO PERIODO/Nova pasta/memoria_de_dados.v
+L0 5
+R7
+r1
+31
+Z41 !s90 -reportprogress|300|-work|work|C:/Users/T-Gamer/Desktop/CEFET/QUARTO PERIODO/Nova pasta/memoria_de_dados.v|
+R11
+Z42 !s108 1668110451.721000
+Z43 !s107 C:/Users/T-Gamer/Desktop/CEFET/QUARTO PERIODO/Nova pasta/memoria_de_dados.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vinstr_mem
+Z44 !s100 _MfK`0SncAcMXabKc_85A1
+Z45 IU3^JXhd99EZkG_ik1eQY=0
+Z46 VdU9djim2G;774^;S:=K1U3
+R2
+Z47 w1668032064
+Z48 8C:\Users\T-Gamer\Desktop\CEFET\QUARTO PERIODO\Nova pasta\memoria_de_instrucoes.v
+Z49 FC:\Users\T-Gamer\Desktop\CEFET\QUARTO PERIODO\Nova pasta\memoria_de_instrucoes.v
+L0 3
+R7
+r1
+31
+Z50 !s90 -reportprogress|300|-work|work|C:\Users\T-Gamer\Desktop\CEFET\QUARTO PERIODO\Nova pasta\memoria_de_instrucoes.v|
+R11
+Z51 !s108 1668034196.527000
+Z52 !s107 C:\Users\T-Gamer\Desktop\CEFET\QUARTO PERIODO\Nova pasta\memoria_de_instrucoes.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMDD
+!i10b 1
+!s100 `YG_U^I6Pj0[7zQKVD]5@1
+IO`kOEb4J`AM6daD2[cOe^3
+Z53 Vg?ET_doo1<dX5Y2j[ZHVF3
+R2
+Z54 w1670615224
+Z55 Fmemoria_de_dados.v
+R5
+R6
+L0 2
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!s101 -O0
+R11
+Z56 n@m@d@d
+vMDI
+!i10b 1
+!s100 zCQf[??^nb]FKJ4lLI>BO0
+IJ7UeJVL=IHl>4dg>kkR150
+Z57 Vc1LRn?2h?:CbfJj[?W^J:3
+R2
+w1670622906
+Z58 Fmemoria_de_instrucoes.v
+R5
+R6
+L0 3
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!s101 -O0
+R11
+Z59 n@m@d@i
+vMUX_3bits
+!i10b 1
+!s100 mYSl@Yj48J:EOFb<gD>S40
+IBNAcO[ZKNI0[OPB[ob[aD1
+Z60 VZN>eXj8`L6ZONHU9=;F9H0
+R2
+R54
+Z61 FMux_3bits.v
+R5
+R6
+L0 2
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!s101 -O0
+R11
+Z62 n@m@u@x_3bits
+vMUX_8bits
+!i10b 1
+!s100 Mmhg74D_IgaPA`Zh[<C0g1
+I4YiDzOnNCD=1JQi97c61J3
+Z63 Vl5zURkCh]Cike7h0>Ie5Y2
+R2
+R54
+Z64 FMux_8bits.v
+R5
+R6
+L0 2
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!s101 -O0
+R11
+Z65 n@m@u@x_8bits
+vnRISC
+!i10b 1
+!s100 UXNgCY[YNji[][P5C=lAz0
+I4=m4C@X8fN[dPkIUPEUVZ2
+Z66 V>EK5XI@MNmfWAB0AWLWGZ3
+R2
+Z67 w1670623784
+FnRisc.v
+R5
+R6
+L0 11
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!s101 -O0
+R11
+Z68 nn@r@i@s@c
+vPC
+!i10b 1
+!s100 i:EonYPZ;:7B9OWThGbBS1
+I53Q79ni[52abDQOd=KIRf3
+Z69 VfPz2DenP]TM44iQXzkB3C3
+R2
+R54
+FPC.v
+R5
+R6
+L0 3
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!s101 -O0
+R11
+n@p@c
+vPC_Reg
+Z70 !s100 7b_;H:em7TkJh0a3=zR5f2
+Z71 IMAhYGJ5:e=l0cfA8f@gc?2
+Z72 V_GFRbb]ThzYd_f9DaQPF`2
+R2
+Z73 w1668030072
+Z74 8C:/Users/T-Gamer/Desktop/CEFET/QUARTO PERIODO/Nova pasta/PC.v
+Z75 FC:/Users/T-Gamer/Desktop/CEFET/QUARTO PERIODO/Nova pasta/PC.v
+L0 4
+R7
+r1
+31
+Z76 !s90 -reportprogress|300|-work|work|C:/Users/T-Gamer/Desktop/CEFET/QUARTO PERIODO/Nova pasta/PC.v|
+R11
+Z77 n@p@c_@reg
+Z78 !s108 1668113012.779000
+Z79 !s107 C:/Users/T-Gamer/Desktop/CEFET/QUARTO PERIODO/Nova pasta/PC.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vPCAdder
+Z80 !s100 Il1gVzNP50NUzQL3`jfUN2
+Z81 IYgl403i7zeezgGGTK@1V30
+Z82 VbC]7_e[]3ZcL6_JfUV_kT0
+R2
+Z83 w1670529630
+Z84 8C:\Users\T-Gamer\Desktop\CEFET\QUARTO PERIODO\Nova pasta\PC.v
+Z85 FC:\Users\T-Gamer\Desktop\CEFET\QUARTO PERIODO\Nova pasta\PC.v
+L0 3
+R7
+r1
+31
+Z86 !s90 -reportprogress|300|-work|work|C:\Users\T-Gamer\Desktop\CEFET\QUARTO PERIODO\Nova pasta\PC.v|
+R11
+Z87 n@p@c@adder
+Z88 !s108 1670529738.287000
+Z89 !s107 C:\Users\T-Gamer\Desktop\CEFET\QUARTO PERIODO\Nova pasta\PC.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vregister_file
+Z90 !s100 DF@d4M0hz706_;JMPgCec3
+Z91 ImYRW1`^HQddXAbo>9lgMY0
+Z92 VMBSYBm90a0bIV6b8^nBA=1
+R2
+Z93 w1668029646
+Z94 8C:/Users/T-Gamer/Desktop/CEFET/QUARTO PERIODO/Nova pasta/banco_de_registradores.v
+Z95 FC:/Users/T-Gamer/Desktop/CEFET/QUARTO PERIODO/Nova pasta/banco_de_registradores.v
+L0 4
+R7
+r1
+31
+Z96 !s90 -reportprogress|300|-work|work|C:/Users/T-Gamer/Desktop/CEFET/QUARTO PERIODO/Nova pasta/banco_de_registradores.v|
+R11
+Z97 !s108 1668105149.385000
+Z98 !s107 C:/Users/T-Gamer/Desktop/CEFET/QUARTO PERIODO/Nova pasta/banco_de_registradores.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vsimulacao
+!i10b 1
+!s100 m5oI>Z4S?`FG@L@<>LW<R2
+I2Qa4Ih7;W2KL43LQMNAKo1
+Z99 V2QGY:Si]K4WF>3DiB[4:V0
+R2
+R54
+R5
+R6
+L0 5
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!s101 -O0
+R11
+vteste_bdr
+Z100 !s100 fDWl6cDX::BCI3RN19SmK3
+Z101 ILZ@o8;57><@5j]6=^Ti;;2
+Z102 VK1??NST88hb[`:^<N@n3N1
+R2
+Z103 w1670614996
+Z104 8C:/Users/T-Gamer/Desktop/CEFET/QUARTO PERIODO/Nova pasta/teste_bdr.v
+Z105 FC:/Users/T-Gamer/Desktop/CEFET/QUARTO PERIODO/Nova pasta/teste_bdr.v
+L0 1
+R7
+r1
+31
+Z106 !s90 -reportprogress|300|-work|work|C:/Users/T-Gamer/Desktop/CEFET/QUARTO PERIODO/Nova pasta/teste_bdr.v|
+R11
+Z107 !s108 1670624479.606000
+Z108 !s107 C:/Users/T-Gamer/Desktop/CEFET/QUARTO PERIODO/Nova pasta/teste_bdr.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vteste_cdu
+Z109 !s100 4UhYSYGZGOUd_fbW04MOW3
+Z110 InT`h:5GmW[dIdQFY4[WIc3
+Z111 V[2Xk2o02d98?QJdLCW;]z3
+R2
+Z112 w1669935832
+Z113 8C:/Users/T-Gamer/Desktop/CEFET/QUARTO PERIODO/Nova pasta/teste_cdu.v
+Z114 FC:/Users/T-Gamer/Desktop/CEFET/QUARTO PERIODO/Nova pasta/teste_cdu.v
+L0 2
+R7
+r1
+31
+Z115 !s90 -reportprogress|300|-work|work|C:/Users/T-Gamer/Desktop/CEFET/QUARTO PERIODO/Nova pasta/teste_cdu.v|
+R11
+Z116 !s108 1670624481.017000
+Z117 !s107 C:/Users/T-Gamer/Desktop/CEFET/QUARTO PERIODO/Nova pasta/teste_cdu.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vteste_mdd
+Z118 !s100 6cKb0nXndkH^2S5z:fcXG3
+Z119 IU[;MLAT<cfk5TWn[IdMJB3
+Z120 V5::<zPYJEl[ZND8_:eYSe2
+R2
+Z121 w1668113009
+Z122 8C:/Users/T-Gamer/Desktop/CEFET/QUARTO PERIODO/Nova pasta/teste_mdd.v
+Z123 FC:/Users/T-Gamer/Desktop/CEFET/QUARTO PERIODO/Nova pasta/teste_mdd.v
+L0 1
+R7
+r1
+31
+Z124 !s90 -reportprogress|300|-work|work|C:/Users/T-Gamer/Desktop/CEFET/QUARTO PERIODO/Nova pasta/teste_mdd.v|
+R11
+Z125 !s108 1670624479.714000
+Z126 !s107 C:/Users/T-Gamer/Desktop/CEFET/QUARTO PERIODO/Nova pasta/teste_mdd.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vteste_mdi
+Z127 !s100 deALd;ccU]G1M?RU8`Pfo2
+Z128 IRKD0h3MJ[LillNMTo3fQb0
+Z129 V^`=bR@Jh]Rb6J;chlaZRm0
+R2
+Z130 w1668106713
+Z131 8C:/Users/T-Gamer/Desktop/CEFET/QUARTO PERIODO/Nova pasta/teste_mdi.v
+Z132 FC:/Users/T-Gamer/Desktop/CEFET/QUARTO PERIODO/Nova pasta/teste_mdi.v
+L0 1
+R7
+r1
+31
+Z133 !s90 -reportprogress|300|-work|work|C:/Users/T-Gamer/Desktop/CEFET/QUARTO PERIODO/Nova pasta/teste_mdi.v|
+R11
+Z134 !s108 1670624479.497000
+Z135 !s107 C:/Users/T-Gamer/Desktop/CEFET/QUARTO PERIODO/Nova pasta/teste_mdi.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vteste_mux
+Z136 !s100 NL7hmhR]cCazU7U@;zAbF2
+Z137 IJAC=G?mG38c3J^]=LfAl<3
+Z138 VY9MfKan1OlD]_NVCT1VY]2
+R2
+Z139 w1669933712
+Z140 8C:/Users/T-Gamer/Desktop/CEFET/QUARTO PERIODO/Nova pasta/teste_mux.v
+Z141 FC:/Users/T-Gamer/Desktop/CEFET/QUARTO PERIODO/Nova pasta/teste_mux.v
+L0 2
+R7
+r1
+31
+Z142 !s90 -reportprogress|300|-work|work|C:/Users/T-Gamer/Desktop/CEFET/QUARTO PERIODO/Nova pasta/teste_mux.v|
+R11
+Z143 !s108 1670624480.696000
+Z144 !s107 C:/Users/T-Gamer/Desktop/CEFET/QUARTO PERIODO/Nova pasta/teste_mux.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vteste_mux2
+Z145 !s100 kn_`70:KBa=FAXd5kzgad3
+Z146 IH@g0kTh@=ofZI^bYQITbh0
+Z147 VUNYb8>i=OV6^E1=2[I8a12
+R2
+Z148 w1669933896
+Z149 8C:/Users/T-Gamer/Desktop/CEFET/QUARTO PERIODO/Nova pasta/teste_mux2.v
+Z150 FC:/Users/T-Gamer/Desktop/CEFET/QUARTO PERIODO/Nova pasta/teste_mux2.v
+L0 2
+R7
+r1
+31
+Z151 !s90 -reportprogress|300|-work|work|C:/Users/T-Gamer/Desktop/CEFET/QUARTO PERIODO/Nova pasta/teste_mux2.v|
+R11
+Z152 !s108 1670624480.800000
+Z153 !s107 C:/Users/T-Gamer/Desktop/CEFET/QUARTO PERIODO/Nova pasta/teste_mux2.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vteste_pc
+Z154 !s100 4Ec`0bhj:aKz>Eb<kXemO3
+Z155 IbXNG[?e4;eM4cM^W4c`e>1
+Z156 Vj^VE0>A6LCZ358K9nRW<d0
+R2
+Z157 w1670531056
+Z158 8C:/Users/T-Gamer/Desktop/CEFET/QUARTO PERIODO/Nova pasta/teste_pc.v
+Z159 FC:/Users/T-Gamer/Desktop/CEFET/QUARTO PERIODO/Nova pasta/teste_pc.v
+L0 1
+R7
+r1
+31
+Z160 !s90 -reportprogress|300|-work|work|C:/Users/T-Gamer/Desktop/CEFET/QUARTO PERIODO/Nova pasta/teste_pc.v|
+R11
+Z161 !s108 1670624479.821000
+Z162 !s107 C:/Users/T-Gamer/Desktop/CEFET/QUARTO PERIODO/Nova pasta/teste_pc.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vteste_udc
+Z163 !s100 1FGI^?b<z1Yel5KQ?zd5N2
+Z164 IE:[A[NzLTbE1=h_:bU=kR0
+Z165 ViSFj7b]4GIz5Yzb`Sdi2N3
+R2
+Z166 w1670597946
+Z167 8C:/Users/T-Gamer/Desktop/CEFET/QUARTO PERIODO/Nova pasta/teste_udc.v
+Z168 FC:/Users/T-Gamer/Desktop/CEFET/QUARTO PERIODO/Nova pasta/teste_udc.v
+L0 2
+R7
+r1
+31
+Z169 !s90 -reportprogress|300|-work|work|C:/Users/T-Gamer/Desktop/CEFET/QUARTO PERIODO/Nova pasta/teste_udc.v|
+R11
+Z170 !s108 1670624480.261000
+Z171 !s107 C:/Users/T-Gamer/Desktop/CEFET/QUARTO PERIODO/Nova pasta/teste_udc.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vteste_ULA
+Z172 !s100 aY3efUB=4B>D9cQ3A38gF2
+Z173 I5odW;jLZEdJOWZj`FTUII1
+Z174 VEj1@_>[3>QTPDU?NX;Z1P2
+R2
+Z175 w1670536256
+Z176 8C:/Users/T-Gamer/Desktop/CEFET/QUARTO PERIODO/Nova pasta/teste_ULA.v
+Z177 FC:/Users/T-Gamer/Desktop/CEFET/QUARTO PERIODO/Nova pasta/teste_ULA.v
+L0 2
+R7
+r1
+31
+Z178 !s90 -reportprogress|300|-work|work|C:/Users/T-Gamer/Desktop/CEFET/QUARTO PERIODO/Nova pasta/teste_ULA.v|
+R11
+Z179 nteste_@u@l@a
+Z180 !s108 1670624480.039000
+Z181 !s107 C:/Users/T-Gamer/Desktop/CEFET/QUARTO PERIODO/Nova pasta/teste_ULA.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vUDC
+!i10b 1
+!s100 ISoN@ZW21kOM5OeZ@0o0h0
+I10I1`gm]m<?kfi2UMWD2h1
+Z182 VDn7nCGUNmLDdSb9CznmgN3
+R2
+Z183 w1670624455
+Z184 Funidade_de_controle.v
+R5
+R6
+L0 2
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!s101 -O0
+R11
+Z185 n@u@d@c
